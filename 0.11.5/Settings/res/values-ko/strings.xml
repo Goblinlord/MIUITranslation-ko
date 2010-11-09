@@ -698,7 +698,7 @@
   <string name="skip_button_label">취소</string>
   <string name="next_button_label">다음</string>
   <string name="lock_title">휴대전화 보안 설정</string>
-  <string name="lock_intro_message">나만의 화면 잠금해제 패턴을 만들어서 인증되지 않은 사람이 전화를 사용하지 못하게 하세요. \n\n1  다음 화면에서 패턴 예가 그려지는 것을 보세요. \n\n2 준비가 되었으면 나만의 잠금해제 패턴을 그리세요. 다른 패턴으로 실험해 볼 수 있으나 최소한 4개의 점을 연결해야 합니다. \n\n3 확인을 위해 패턴을 다시 그립니다. \n\n시작할 준비가 되었으면 \'다음\'을 터치합니다. \n\n인증되지 않은 사람도 전화를 사용할 수 있게 하려면 \'취소\'를 터치하세요.</string>
+  <string name="lock_intro_message">나만의 화면 잠금해제 패턴을 만들어서 인증되지 않은 사람이 전화를 사용하지 못하게 하세요. \n\n1  다음 화면에서 패턴 예가 그려지는 것을 보세요. \n\n2 준비가 되었으면 나만의 잠금해제 패턴을 그리세요. 다른 패턴으로 실험해 볼 수 있으나 최소한 4개의 점을 연결해야 합니다. \n\n3 확인을 위해 패턴을 다시 그립니다. \n\n시작할 준비가 되었으면 \'다음\'을 터치합니다. \n\n인증되지 않은 사람도 전화를 사용할 수 있게 하려면 \'취소\'를 터치하세요.</string>
   <string name="lock_example_title">패턴 예</string>
   <string name="lock_example_message">4개 이상의 점을 연결합니다. \n \n나만의 패턴을 그릴 준비가 되면 \'다음\'을 터치합니다.</string>
   <string name="manageapplications_settings_title">애플리케이션 관리</string>
@@ -1157,8 +1157,17 @@
   <string name="language_settings_title">언어 및 입력</string>
   <string name="debug_log">디버그로그</string>
   <string name="wifi_stop">와이파이끄기</string>
+   <string name="more_info">추가 정보</string>
+   <string name="current_version">최신 버전:%s</string>
+   <string name="device_overview">모델:     %s\n\nCPU:     %s\n\nSD 카드: %s Available\n\n내부 메모리: %s 가능</string>
+   <string name="battery_level">배터리 충전: %d</string>
+   <string name="click_to_input">입력하십시오</string>
+   <string name="data_service">데이터 서비스</string>
+   <string name="incoming_call">전화 통화</string>
+   <string name="sms">SMS</string>
   <string name="install_development_settings_title">개발자설치설정</string>
   <string name="uninstall_program_title">설치제거프로그램</string>
+  <string name="manage_applications_title">애플 리케이션 관리</string>
   <string name="development_debug_category">개발및디버깅</string>
   <string name="trackball_settings">트랙볼설정</string>
   <string name="wifi_advanced_settings">와이파이고급설정</string>
@@ -1170,6 +1179,10 @@
   <string name="breathing_light_freq_title">트랙볼 깜빡임 주기</string>
   <string name="breathing_light_freq_summary">트랙볼이 깜빡이는 간격을 설정합니다.</string>
   <string name="trackball_wake_title">트랙볼로 화면 켜기</string>
+   <string name="turnover_mute_title">침묵에 뒤집기</string>
+   <string name="turnover_mute_summary">화면을 아래로 뒤집기 때 전화가 울리면 활성 사일런트 모드로</string>
+   <string name="handon_ringer_title">받아 전화 벨소리가 퇴색</string>
+   <string name="handon_ringer_summary">전화 벨소리는 평평한 표면에서 주운 때 부드럽게됩니다.</string>
   <string name="battery_settings">배터리 설정</string>
   <string name="battery_settings_title">배터리 설정</string>
   <string name="battery_indicator_style">배터리 게이지 형식</string>
